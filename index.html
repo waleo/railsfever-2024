@@ -263,30 +263,15 @@ exclude_bottom_nav: true
 
   <hr />
 
-  <h2>New Clients</h2>
+  {% include new_clients_cta.html %}
+
+  <hr />
+
+  <h2>Case Studies</h2>
   <section>
-    <p>Are you tired of</p>
-
     <ul>
-      <li>Unreliable freelancers?</li>
-      <li>Expensive consultancies?</li>
-      <li>A revolving door of developers?</li>
+      <li><a href="/supercat_case_study.html">Fractional Software Development - Supercat Solutions</a></li>
     </ul>
-
-    <p>Would you like</p>
-    <ul>
-      <li>A long term technical partner?</li>
-      <li>Great communication?</li>
-      <li>Professional Service?</li>
-      <li>High quality software?</li>
-      <li>Someone you can trust?</li>
-    </ul>
-
-    <p>
-      I work with a select group of Founders and CEOs that share my values.
-      Reach out to discuss how we can work together.
-      <b>Email me: hello@railsfever.com.</b>
-    </p>
   </section>
 
   <hr />
@@ -320,7 +305,7 @@ exclude_bottom_nav: true
     </p>
 
     <p>
-      By 2010 I has gained experience as lead software engineer for various
+      By 2010 I had gained experience as lead software engineer for various
       development teams. In 2013 I decided that working Independently was my
       best move personally and professionally. I learned the Ruby
       programming language and was infected with <b>Rails Fever</b> - a
@@ -372,13 +357,5 @@ exclude_bottom_nav: true
     </p>
   </section>
 
-  <hr />
-  <hr />
-  <hr />
-
-  <ul class="list-unstyled">
-    <li class="h5">Rails Fever LLC - Established 2013</li>
-    <li class="h5">Motto: Always Deliver 110%</li>
-    <li class="h5">Email: <b>hello@railsfever.com</b></li>
-  </ul>
+  {% include footer.html %}
 </main>
