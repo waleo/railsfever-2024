@@ -21,6 +21,8 @@
     <link rel="manifest" href="/site.webmanifest" />
   </head>
   <body class="container">
-    {{ content }}
+    {% unless page.exclude_top_nav == true %} {% include nav.html %} {%
+    endunless %} {{ content }} {% unless page.exclude_bottom_nav == true %} {%
+    include nav.html %} {% endunless %}
   </body>
 </html>
