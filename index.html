@@ -5,6 +5,8 @@ exclude_top_nav: true
 exclude_bottom_nav: true
 ---
 
+{% include home_page_nav.html %}
+
 <header>
   <img
     src="wale.jpg"
@@ -38,7 +40,7 @@ exclude_bottom_nav: true
   </p>
   <hr />
 
-  <h2>Services</h2>
+  <h2 id="services">Services</h2>
   <br />
   <section>
     <h3>Fractional Software Development</h3>
@@ -113,7 +115,7 @@ exclude_bottom_nav: true
 
   <hr />
 
-  <h2>Testimonials</h2>
+  <h2 id="testimonials">Testimonials</h2>
   <section>
     <p>
       Rails Fever LLC came at a time we needed an immediate intervention due
@@ -267,7 +269,7 @@ exclude_bottom_nav: true
 
   <hr />
 
-  <h2>Case Studies</h2>
+  <h2 id="case_studies">Case Studies</h2>
   <section>
     <ul>
       <li><a href="/supercat_case_study.html">Fractional Software Development - Supercat Solutions</a></li>
@@ -358,4 +360,6 @@ exclude_bottom_nav: true
   </section>
 
   {% include footer.html %}
+
+  {% include home_page_nav.html %}
 </main>
