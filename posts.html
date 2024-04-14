@@ -1,0 +1,16 @@
+---
+layout: default
+exclude_bottom_nav: true
+---
+
+<hr />
+<h1 class="h3">Blog Posts</h1>
+<hr />
+
+<ul>
+  {% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
