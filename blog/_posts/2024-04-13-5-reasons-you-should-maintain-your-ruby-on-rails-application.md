@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "5 reasons you should maintain your Ruby on Rails Application"
+slug: ruby-on-rails-maintenance-reasons
 ---
 
 <hr />
