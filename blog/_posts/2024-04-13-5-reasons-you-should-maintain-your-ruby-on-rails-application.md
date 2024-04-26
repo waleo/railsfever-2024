@@ -47,7 +47,7 @@ According to Cyber Security experts, 30,0000 websites are hacked everyday. Secur
 Failure to upgrade your Ruby on Rails application leaves your website and data vulnerable to hacking schemes. Hackers cost businesses lots of money everyday. How much will it cost your business to recover from hackers?
 
 <hr />
-## The cost of doing nothing
+## What is the cost of doing nothing?
 
 Maintaining your Ruby on Rails application on a monthly basis costs some money, however it is cheaper than the price you will pay when you have a catastrophic problem.
 
