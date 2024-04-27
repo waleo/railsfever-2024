@@ -2,15 +2,19 @@
 layout: post
 title: "5 reasons you should maintain your Ruby on Rails Application"
 slug: ruby-on-rails-maintenance-reasons
+image: man-fixing-vehicle-engine-small.jpg
+image_alt: "Picture of a man maintaining a vehicle on a jack stand. He adjusts a bolt while underneath the vehicle."
+image_width: 640
+image_height: 427
 ---
 
 # 5 reasons you should maintain your Ruby on Rails Application
 
 <img
-  src="/images/blog/man-fixing-vehicle-engine-small.jpg"
-  alt="Picture of a man maintaining a vehicle on a jack stand. He adjusts a bolt while underneath the vehicle."
-  width="640"
-  height="427"
+  src="/images/blog/{{ page.image }}"
+  alt="{{ page.image_alt }}"
+  width="{{ page.image_width }}"
+  height="{{ page.image_height }}"
   class="img-fluid rounded"
   style="margin: 1em 0 0.75em 0"
 />
