@@ -42,7 +42,7 @@ Most developers have little interest in working on very old platforms. Documenta
 <hr />
 ## Ruby on Rails Maintenance prevents a complete application rewrite
 
-A company running an old version of Rails runs the risk that their system becomes so obsolete it may eventually have to be abandoned and rebuilt from scratch.
+A company running an old version of Rails runs the risk that its system becomes so obsolete it may eventually have to be abandoned and rebuilt from scratch.
 
 Even if you could afford a rewrite, you may not be able to rebuild all the existing functionality into a new platform. How would you migrate users to the new platform? Would you experience data loss?
 
