@@ -21,7 +21,7 @@ intro: |
   style="margin: 1em 0 0.75em 0"
 />
 
-As a founder of a business running on Ruby on Rails you may wonder, if you have a working Ruby on Rails application, why is there a need to continue maintaining it? Is it really necessary? Isn't it cheaper to do nothing?
+As a founder of a business running on Ruby on Rails, you may wonder, if you have a working Ruby on Rails application, why is there a need to continue maintaining it? Is it really necessary? Isn't it cheaper to do nothing?
 
 This article discusses 5 reasons why you should maintain your Ruby on Rails application.
 
