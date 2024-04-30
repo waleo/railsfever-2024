@@ -58,7 +58,7 @@ Each version of Ruby on Rails sets new standards for how Rails apps should be bu
 <hr />
 ## Ruby on Rails Maintenance protects you from hacking
 
-According to Cyber Security experts, 30,0000 websites are hacked every day. Security vulnerabilities are regularly found and fixed. To obtain these fixes you must upgrade your Ruby on Rails application.
+According to cybersecurity experts, 30,0000 websites are hacked every day. Security vulnerabilities are regularly found and fixed. To obtain these fixes you must upgrade your Ruby on Rails application.
 
 Failure to upgrade your Ruby on Rails application leaves your website and data vulnerable to hacking schemes. Hackers cost businesses lots of money every day. How much will it cost your business to recover from hackers?
 
