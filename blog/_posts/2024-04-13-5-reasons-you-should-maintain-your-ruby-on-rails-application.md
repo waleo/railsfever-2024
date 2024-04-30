@@ -7,7 +7,7 @@ image_alt: "Picture of a man maintaining a vehicle on a jack stand. He adjusts a
 image_width: 640
 image_height: 427
 intro: |
-  As a founder of a business running on Ruby on Rails you may wonder, if you have a working Ruby on Rails application, why is there a need to continue maintaining it? Is it really necessary? Isn't it cheaper to do nothing? This article discusses 5 reasons why you should maintain your Ruby on Rails application.
+  As a founder of a business running on Ruby on Rails, you may wonder, if you have a working Ruby on Rails application, why is there a need to continue maintaining it? Is it really necessary? Isn't it cheaper to do nothing? This article discusses 5 reasons why you should maintain your Ruby on Rails application.
 ---
 
 # 5 reasons you should maintain your Ruby on Rails Application
